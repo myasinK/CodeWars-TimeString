@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\Kata-HumanReadableTime\Kata-HumanReadableTime\bin\Debug\Kata-HumanReadableTime.exe.config
+C:\Users\Yasin\source\repos\Kata-HumanReadableTime\Kata-HumanReadableTime\bin\Debug\Kata-HumanReadableTime.exe
+C:\Users\Yasin\source\repos\Kata-HumanReadableTime\Kata-HumanReadableTime\bin\Debug\Kata-HumanReadableTime.pdb
+C:\Users\Yasin\source\repos\Kata-HumanReadableTime\Kata-HumanReadableTime\obj\Debug\Kata-HumanReadableTime.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\Kata-HumanReadableTime\Kata-HumanReadableTime\obj\Debug\Kata-HumanReadableTime.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\Kata-HumanReadableTime\Kata-HumanReadableTime\obj\Debug\Kata-HumanReadableTime.exe
+C:\Users\Yasin\source\repos\Kata-HumanReadableTime\Kata-HumanReadableTime\obj\Debug\Kata-HumanReadableTime.pdb
